@@ -3,7 +3,7 @@
   
   ### Hi there 👋
 
-  I am Steve, welcome to my github profile 
+  I am Roy, welcome to my github profile 
   
   
   ---
@@ -11,9 +11,8 @@
   ### :man_technologist: About Me 
   I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-  -  FullStack Blockchain Developer 
-  -  Check out my portfolio at https://kimoisteve.info
-  -  Reach out to me via email at kimoisteve.ke@gmail.com
+  -  FullStack SOftware Developer 
+  -  Reach out to me via email at roykiprop590@gmail.com
   
   --- 
   ### :hammer_and_wrench:Languages and tools:  
@@ -25,17 +24,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgreSQL"  alt="postgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
   </div> 
   
   --- 
   ### :computer: My statistics: 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kimoi&layout=compact&theme=vision-friendly-dark)
-  <img width="380px" height="170px" align="left" src="https://github-readme-stats.vercel.app/api?username=Stephen-Kimoi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyKiprop&layout=compact&theme=vision-friendly-dark)
+  <img width="380px" height="170px" align="left" src="https://github-readme-stats.vercel.app/api?username=RoyKiprop&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
  <div align="center">
-       <p text-align="center"> <img src="https://komarev.com/ghpvc/?username=Stephen-Kimoi &label=Profile%20views&color=0e75b6&style=flat" alt="steve kimoi" /> </p>
+       <p text-align="center"> <img src="https://komarev.com/ghpvc/?username=RoyKiprop &label=Profile%20views&color=0e75b6&style=flat" alt="Roy Kiprop" /> </p>
  </div> 
 
 
@@ -43,12 +41,9 @@
 
    <p text-align="center">Connect with me :point_down:</p>
     <div id="badges" align="center">  
-    <a href="https://linkedin.com/in/stephen-kimoi-927856218/" target="_blank">
+    <a href="https://www.linkedin.com/in/roy-kiprop/" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-     <a href="https://twitter.com/stevekimoi">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a> 
    </div>
 </div> 
 
